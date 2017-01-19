@@ -19,11 +19,7 @@ class Player extends Widget
      *
      * @var array
      */
-    public $params = [
-        'clip' => [
-            'autoPlay' => false,
-        ],
-    ];
+    public $params = [];
 
     /**
      * Flowplayer configuration.
